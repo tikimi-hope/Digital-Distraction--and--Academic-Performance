@@ -334,4 +334,5 @@ The findings emphasize that improving student outcomes requires an integrated st
 Data Analytics Project
 
 Microsoft Excel | Power Query | Pivot Tables | Power BI
+
 I am open for collaborate on data analysis,statistical analysis, and visualization related projects.You can reah me via email (ofizwop@gmail.com)
