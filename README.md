@@ -1,6 +1,7 @@
 # 📊 Digital Distraction and Academic Performance
 
 <img width="512" height="268" alt="Image" src="https://github.com/user-attachments/assets/920389fc-b084-4e17-af31-c18dbfa13b40" />
+
 ### An Excel-Based Data Analysis Project
 
 ## 📌 Project Overview
